@@ -1,4 +1,5 @@
 import Product from "../../../domain/product/entity/product";
+import UpdateProductUseCase from "./update.product.usecase";
 
 const product = new Product('1', 'Product 1', 100);
 
